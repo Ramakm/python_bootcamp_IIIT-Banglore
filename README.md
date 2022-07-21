@@ -4,3 +4,5 @@ Its a python bootcamp repo, following the #100DayOfCode Challange by Dr. Angela 
 #Day 1-4: Completed Basics like Variable, Data structure like List, Completed coding more than 15 questions asked by the course during this perios.
 
           problems are available here. check it out.
+          
+          1. Rock-Paper-Scissor problem readme. [https://replit.com/@ramakrushna8594/rock-paper-scissors-end#README.md]
