@@ -23,4 +23,7 @@ All the questions will be available in comment section with # mark above or belo
 
         6. Love Calculator: By taking two names as input, matching their letters in names and calculate the percentange of        love matching.
 
-        7.
+        7. BMI Calculator: As its name suggest, BMI calculator helps us to identify whether the weight per height in balance or not. 
+
+        8. Random Password Generation: To make your password strong, you need to add special characters as well as some numbers.
+        using random module we can create a strong or intermediate password. This program is all about that. Used Random module and its method. 
