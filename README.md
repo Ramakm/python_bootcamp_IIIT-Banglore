@@ -35,4 +35,7 @@ All the questions will be available in comment section with # mark above or belo
           2. Hurdles race Reeborg has entered a hurdles race. Make him run the course:
               link to see the code and play the game is here: https://reeborg.ca/reeborg.html?                lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
 
-          3. Paint_Area_Calculator:You are painting a wall. The instructions on the paint can says that 1 can of paint can cover  square meters of wall. Given a random height and width of wall, calculate how many cans of paint you'll need to buy
+          3. Paint_Area_Calculator:You are painting a wall. The instructions on the paint can says that 1 can of paint can cover  square meters of wall. Given a random height and width of wall, calculate how many cans of paint you'll need to buy.
+
+          4. Prime Number: Prime numbers are numbers that can only be cleanly divided by themselves and 1.
+
