@@ -31,5 +31,8 @@ All the questions will be available in comment section with # mark above or belo
 <h2>#Day 6-10:</h2> This period started the course with function. Build some simple games like Reeborgs game. This is all part of bootcamp course. Its a hands-on program. 
           
           1. Making a square path with Reeborg: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json
+          
           2. Hurdles race Reeborg has entered a hurdles race. Make him run the course:
               link to see the code and play the game is here: https://reeborg.ca/reeborg.html?                lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
+
+          3. Paint_Area_Calculator:You are painting a wall. The instructions on the paint can says that 1 can of paint can cover  square meters of wall. Given a random height and width of wall, calculate how many cans of paint you'll need to buy
