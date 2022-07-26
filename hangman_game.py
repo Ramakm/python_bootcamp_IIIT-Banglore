@@ -1,7 +1,15 @@
 #Step 4
 
 import random
-
+logo = ''' 
+ _                                             
+| |                                            
+| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
+| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+| | | | (_| | | | | (_| | | | | | | (_| | | | |
+|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                    __/ |                      
+                   |___/    '''
 stages = ['''
   +---+
   |   |
@@ -58,7 +66,7 @@ stages = ['''
       |
 =========
 ''']
-
+print(logo)
 end_of_game = False
 word_list = ["ardvark", "baboon", "camel"]
 chosen_word = random.choice(word_list)
@@ -98,6 +106,6 @@ while not end_of_game:
         end_of_game = True
         print("You win.")
 
-        
+
     print(stages[lives])  
     
