@@ -1,5 +1,4 @@
-#Step 4
-
+from replit
 import random
 logo = ''' 
  _                                             
@@ -75,7 +74,6 @@ word_length = len(chosen_word)
 lives = 6
 #print(f'Pssst, the solution is {chosen_word}.')
 
-#Create blanks
 display = []
 for _ in range(word_length):
     display += "_"
@@ -85,8 +83,7 @@ while not end_of_game:
       print("You Loose")
       break
     guess = input("Guess a letter: ").lower()
-
-    #Check guessed letter
+    clear()
     for position in range(word_length):
         letter = chosen_word[position]
         # print(f"Current position: {position}\n Current letter: {letter}\n Guessed letter: {guess}")
