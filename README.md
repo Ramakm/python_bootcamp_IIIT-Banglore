@@ -28,25 +28,32 @@ All the questions will be available in comment section with # mark above or belo
         8. Random Password Generation: To make your password strong, you need to add special characters as well as some numbers.
         using random module we can create a strong or intermediate password. This program is all about that. Used Random module and its method. 
 
-<h2>#Day 6-10:</h2> This period started the course with function. Build some simple games like Reeborgs game. This is all part of bootcamp course. Its a hands-on program. 
+<h2>#Day 6-10: This period started the course with function. Build some simple games like Reeborgs game. This is all part of bootcamp course. Its a hands-on program. 
           
-          1. <b>Making a square path with Reeborg</b>: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json
+          1. Making a square path with Reeborg: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json
           
           2. Hurdles race Reeborg has entered a hurdles race. Make him run the course:
               link to see the code and play the game is here: https://reeborg.ca/reeborg.html?                lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
 
-          3. <b>Paint_Area_Calculator</b>:You are painting a wall. The instructions on the paint can says that 1 can of paint can cover  square meters of wall. Given a random height and width of wall, calculate how many cans of paint you'll need to buy.
+          3. Paint_Area_Calculator:You are painting a wall. The instructions on the paint can says that 1 can of paint can cover  square meters of wall. Given a random height and width of wall, calculate how many cans of paint you'll need to buy.
 
-          4. <b>Prime Number</b>: Prime numbers are numbers that can only be cleanly divided by themselves and 1.
+          4. Prime Number: Prime numbers are numbers that can only be cleanly divided by themselves and 1.
+          
+<img src="https://images-na.ssl-images-amazon.com/images/I/61K6UvP2XxL.png" width="400"/>
 
-          5. <b>Caesar-Cipher-Encryption</b>: This program used to send message to a person with encrypted way so that only receiver can detect the message. Because sender and receiver only knows the value of shift.
+          5. Caesar-Cipher-Encryption: This program used to send message to a person with encrypted way so that only receiver can detect the message. Because sender and receiver only knows the value of shift.
                                       #plain_text = "hello"
                                       #shift = 5
                                       #cipher_text = "mjqqt"
                                       #print output: "The encoded text is mjqqt
-          6. <b>Caesar-Cipher-Decryption</b>:
+          6. Caesar-Cipher-Decryption:
                                         #cipher_text = "mjqqt"
                                         #shift = 5
                                         #plain_text = "hello"
                                         #print output: "The decoded text is hello"
-            ![Encryption-Decryption presenration](https://images-na.ssl-images-amazon.com/images/I/61K6UvP2XxL.png)
+
+
+
+
+
+</h2>
