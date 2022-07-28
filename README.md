@@ -51,7 +51,10 @@ All the questions will be available in comment section with # mark above or belo
                                         #shift = 5
                                         #plain_text = "hello"
                                         #print output: "The decoded text is hello"
-
+          7. Grading-System Program:
+          
+                                     You have access to a database of student_scores in the format of a dictionary. The keys in  student_scores are the names of the students and the values are their exam scores.
+                                     Write a program that converts their scores to grades. By the end of your program, 
 
 
 
