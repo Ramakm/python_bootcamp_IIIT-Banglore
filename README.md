@@ -55,7 +55,9 @@ All the questions will be available in comment section with # mark above or belo
           
                                      You have access to a database of student_scores in the format of a dictionary. The keys in  student_scores are the names of the students and the values are their exam scores.
                                      Write a program that converts their scores to grades. By the end of your program, 
-
+          8.Armstrong Number: 
+                                    153 = 1*1*1 + 5*5*5 + 3*3*3
+                                    Sum of cube of its digit is equal to the same no itslef.
 
 
 
