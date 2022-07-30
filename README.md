@@ -58,7 +58,11 @@ All the questions will be available in comment section with # mark above or belo
           8.Armstrong Number: 
                                     153 = 1*1*1 + 5*5*5 + 3*3*3
                                     Sum of cube of its digit is equal to the same no itslef.
+</h2>
+<h2>#Day 10-15:
 
+          1. Bidding System:
+                Ask user to enter names and bids. Enter those entires in a new dictionary as key and values. Ask user to whether new bidders are available or not. If new bidder available then ask then to enter their name and bids and add them to the dictionay. Find the maximum bidding value of the dictionary.You can add a logo here of a bidding machine. Clear() can be used to clear screen when required like new entries.
 
 
 </h2>
