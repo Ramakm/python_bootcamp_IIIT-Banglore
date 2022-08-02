@@ -70,5 +70,9 @@ All the questions will be available in comment section with # mark above or belo
                            No of zeros
           
           3. Leap Year Using User defined Function: 
+
+          4. Algebric Calculator: Calculationg all the algebric operator in a repeated or for a single manner. Add the values to the prev values.
+
+          
                       
 </h2>
